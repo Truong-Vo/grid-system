@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: aqua;
+}
+
+.course-item {
+  background-color: blueviolet;
+  height: 200px;
+}
+
+.course-item-l {
+  background-color: brown;
+  height: 500px;
+}
